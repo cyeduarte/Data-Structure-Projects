@@ -1,0 +1,37 @@
+Script started on Fri 26 Aug 2016 08:01:23 AM PDT
+]0;cyeduarte@abbott:~[01;32mcyeduarte@abbott[01;34m ~ $[00m java Project2
+Please select how to test the program:
+1) 20 sets of 100 randomly generated integers
+2) Fixed integer values 1-100 
+ Enter choice: 
+1
+Average swaps for series of insertions:107
+Average swaps for optimal method: 24
+]0;cyeduarte@abbott:~[01;32mcyeduarte@abbott[01;34m ~ $[00m java Projct2
+Error: Could not find or load main class Projct2
+]0;cyeduarte@abbott:~[01;32mcyeduarte@abbott[01;34m ~ $[00m java p[KP[KProject2
+Please select how to test the program:
+1) 20 sets of 100 randomly generated integers
+2) Fixed integer values 1-100 
+ Enter choice: 
+2
+Heap built using series of insertions: 99,93,98,76,92,97,60,67,75,83,
+Number of swaps: 480
+Heap after 10 removals: 84,93,98,76,92,97,60,67,75,83,
+
+Heap built using optimal method: 86,85,62,78,84,54,61,70,77,83,
+Number of swaps 92
+Heap after 10 removals: 99,85,62,78,84,54,61,70,77,83,
+
+]0;cyeduarte@abbott:~[01;32mcyeduarte@abbott[01;34m ~ $[00m java Project2
+Please select how to test the program:
+1) 20 sets of 100 randomly generated integers
+2) Fixed integer values 1-100 
+ Enter choice: 
+1
+Average swaps for series of insertions:140
+Average swaps for optimal method: 16
+]0;cyeduarte@abbott:~[01;32mcyeduarte@abbott[01;34m ~ $[00m exit
+exit
+
+Script done on Fri 26 Aug 2016 08:01:42 AM PDT
