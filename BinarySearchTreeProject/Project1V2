@@ -1,0 +1,66 @@
+Script started on Thu 11 Aug 2016 05:27:10 AM PDT
+]0;cyeduarte@costello:~[01;32mcyeduarte@costello[01;34m ~ $[00m JAVA[K[K[K[Kjava Project1
+Preorder: 51 29 22 15 3 27 36 40 44 68 59 60 90 77 75 83 99 
+Inorder: 3 15 22 27 29 36 40 44 51 59 60 68 75 77 83 90 99 
+Postorder: 
+3 15 27 22 44 40 36 29 60 59 75 83 77 99 90 68 51 
+
+Command? Press H or h to see menu.
+H
+ I Insert a value
+ D - Delete a value
+ P- Find predecessor
+ S Find successor
+ E Exit the program
+ H Display this message
+
+Command? Press H or h to see menu.
+I 88
+Insert value: 
+3 15 22 27 29 36 40 44 51 59 60 68 75 77 83 88 90 99 
+Command? Press H or h to see menu.
+I 42
+Insert value: 
+3 15 22 27 29 36 40 42 44 51 59 60 68 75 77 83 88 90 99 
+Command? Press H or h to see menu.
+I 22
+Insert value: 
+22 already exists. Ignore
+3 15 22 27 29 36 40 42 44 51 59 60 68 75 77 83 88 90 99 
+Command? Press H or h to see menu.
+d D 44
+Delete value: 
+44 was deleted from the tree
+3 15 22 27 29 36 40 42 51 59 60 68 75 77 83 88 90 99 
+Command? Press H or h to see menu.
+D 90
+Delete value: 
+90 was deleted from the tree
+3 15 22 27 29 36 40 42 51 59 60 68 75 77 83 88 99 
+Command? Press H or h to see menu.
+D 70
+Delete value: 
+70 was not found.
+3 15 22 27 29 36 40 42 51 59 60 68 75 77 83 88 99 
+Command? Press H or h to see menu.
+D 68
+Delete value: 
+68 was deleted from the tree
+3 15 22 27 29 36 40 42 51 59 60 75 77 83 88 99 
+Command? Press H or h to see menu.
+S 75
+Find successor: 
+3
+
+Command? Press H or h to see menu.
+S 99
+Find successor: 
+3
+
+Command? Press H or h to see menu.
+E
+Thanks for using the program.
+]0;cyeduarte@costello:~[01;32mcyeduarte@costello[01;34m ~ $[00m exit 
+exit
+
+Script done on Thu 11 Aug 2016 05:28:29 AM PDT
